@@ -6,5 +6,5 @@
 
 2.用提供的.toml文件替换你新生成的
 
-![image text]()
+![image text](https://github.com/sqwccc/starship_config/blob/main/image/preview.png)
 
