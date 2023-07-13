@@ -6,4 +6,5 @@
 
 2.用提供的.toml文件替换你新生成的
 
+![image](​ ​https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png​​)
 
